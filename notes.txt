@@ -20,3 +20,8 @@ Put iso on system.
 
 Install KVM:
 sudo virt-install --virt-type=kvm --hvm --name odoosht0 --ram 1024 --vcpus=1 --os-type linux --os-variant ubuntu16.04 --cdrom=/home/sht/store/ubuntu-16.04.2-server-amd64.iso --network network=default,model=virtio --graphics vnc --disk path=/var/lib/libvirt/images/odoosht0.img,size=20,bus=virtio
+
+update and upgrade
+
+install odoo:
+https://www.howtoforge.com/tutorial/install-odoo-erp-software-on-ubuntu-16-04/
