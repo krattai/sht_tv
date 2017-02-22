@@ -1,1 +1,4 @@
-no current notes
+For setting up broker, start with openstack, by way of KVM:
+https://www.cyberciti.biz/faq/installing-kvm-on-ubuntu-16-04-lts-server/
+
+
