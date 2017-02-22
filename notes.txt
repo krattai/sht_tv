@@ -25,3 +25,5 @@ update and upgrade
 
 install odoo:
 https://www.howtoforge.com/tutorial/install-odoo-erp-software-on-ubuntu-16-04/
+
+https://www.getopenerp.com/install-odoo-10-on-ubuntu-16-04/
