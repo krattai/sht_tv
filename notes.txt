@@ -33,3 +33,18 @@ broker and cdn should be running IPv6
 
 Also, the host of KVM may best be running full services, a la
 https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
+
+As a reference, in the event an external drive is added to host and does not post (show), then the following may be helpful:
+https://ubuntuforums.org/showthread.php?t=1586206
++ nb: specifically regarding sudo modprobe usb_storage
+
+then mount drive:
+https://help.ubuntu.com/community/Mount/USB
+
+And share drive:
+https://ubuntuforums.org/showthread.php?t=1659816
+
+smbd may need to be started as may not be started at boot
+
+Also point of interest regarding running and managing multiple kvm hosts, if relevant:
+https://sandilands.info/sgordon/linux-servers-as-kvm-virtual-machines
