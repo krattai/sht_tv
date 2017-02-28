@@ -48,3 +48,5 @@ smbd may need to be started as may not be started at boot
 
 Also point of interest regarding running and managing multiple kvm hosts, if relevant:
 https://sandilands.info/sgordon/linux-servers-as-kvm-virtual-machines
+
+For reference, OTRS:ITSM may not be best solution for support desk field work
